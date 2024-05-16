@@ -1,4 +1,4 @@
-# Skin Lesion Datection using CNN
+# Skin Lesion Detection using CNN
 ## Overview
 This project offers an end-to-end solution for instant skin lesion predictions while prioritizing user privacy. Leveraging machine learning techniques, particularly MobileNet CNN architecture, the system efficiently classifies skin lesions. Additionally, it's deployed with Tensorflow.js, ensuring quick and privacy-focused medical diagnostics.
 
